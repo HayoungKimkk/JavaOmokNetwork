@@ -278,6 +278,7 @@ public class OmokPlayer extends Thread{
 		private JPanel panelState = new JPanel();
 		private JPanel panelChance = new JPanel();
 		
+		
 		private JLabel labelTurnState = new JLabel("Wait...");
 		
 		public OmokGui(String title)
